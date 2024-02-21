@@ -1,8 +1,8 @@
 <h1 align="center">Hey! I'm Muhammetberdi!</h1>
 
-![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)
+<!-- ![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Electronics+and+Robotics+Engineer;Software+Engineer;Member+of+Google+Developers+Group+Ashgabat;Robotics+and+mechanics+mentor;Frontend+React+Redux+Web+app+dev;Backend+Network+apps+dev;Agile+Scrum+project+manager;Perfect+teamlead;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Robotics+Engineer;Software+Engineer;Member+of+Google+Developers+Group+Ashgabat;Robotics+and+mechanics+mentor;Frontend+React+Redux+Web+app+dev;Backend+Network+apps+dev;Agile+Scrum+project+manager;Perfect+teamlead;)](https://git.io/typing-svg)
 
 ## 🛸 My Tech Stack
 
@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=mikebionic&theme=onedark&show_icons=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=mikebionic&theme=onedark&show_icons=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" /> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebionic&layout=compact&theme=onedark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs" />
     </a>
 </p>
