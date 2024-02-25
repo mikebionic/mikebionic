@@ -35,9 +35,9 @@
 <h3 align="center">📫 Contact me:</h3>
 <p align="center">
 <a href="https://instagram.com/me.create" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Linkedin" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="60" width="60" /></a>
 <a href="mailto:muhammedjepbarov@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
-<a href="live:muhammedjepbarov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Skype.svg" alt="Skype" height="60" width="60" /></a>
+<a href="live:muhammedjepbarov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="Skype" height="60" width="60" /></a>
 <a href="https://t.me/mecreate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="60" width="60" /></a>
 </p>
 
