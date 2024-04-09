@@ -8,12 +8,12 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=ts,py,go,nodejs,arduino,raspberrypi,nginx,linux,docker,jenkins&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=ts,py,go,nodejs,arduino,raspberrypi,nginx,linux&theme=dark" />
     </a>
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=redis,postgres,react,redux,tailwind,express,flask&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=redis,postgres,react,redux&theme=dark" />
     </a>
 </p>
 <p align="center">
