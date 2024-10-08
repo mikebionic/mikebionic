@@ -2,7 +2,7 @@
 
 <!-- ![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&size=40&duration=2000&pause=1000&random=true&vCenter=true&width=900&lines=Electronics+and+IoT+Engineer;Good+coder;Future+GDG+Expert;Fullstack+developer;Creative+problem+solver;Reliable+project+manager;Loved+mentor;Perfect+teamlead;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&size=30&duration=2000&pause=1000&random=true&vCenter=true&width=900&lines=Electronics+and+IoT+Engineer;Good+coder;Future+GDG+Expert;Fullstack+developer;Creative+problem+solver;Reliable+project+manager;Loved+mentor;Perfect+teamlead;)](https://git.io/typing-svg)
 
 ## 🛸 My Tech Stack
 
