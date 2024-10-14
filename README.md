@@ -27,7 +27,7 @@
 <p align="center">
     <a href="#">
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=mikebionic&theme=onedark&show_icons=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" /> -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebionic&layout=compact&theme=onedark&hide_progress=false&show_icons=true&count_private=true&hide_border=true&hide=css,html,php,blade,ruby,less&bg_color=0d1117" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebionic&layout=compact&theme=onedark&hide_progress=false&show_icons=true&count_private=true&hide_border=true&hide=javascript,css,html,php,blade,ruby,less,ejs&bg_color=0d1117" alt="Top Langs" />
     </a>
 
 </p>
