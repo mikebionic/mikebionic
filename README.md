@@ -8,17 +8,17 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=golang,python,nodejs,react,vue,arduino&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=golang,python,nodejs,react,arduino&theme=dark" />
     </a>
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,azure,prometheus,grafana,terraform,ansible&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,docker,kubernetes&theme=dark" />
     </a>
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=git,figma,bash,redis,postgres,docker&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,figma,bash,postgres,rabbitmq,kafka,azure&theme=dark" />
     </a>
 </p>
 
@@ -42,13 +42,13 @@
 
 <h3 align="center">📫 Click the icons below to reach me:</h3>
 <p align="center">
-<a style="margin:5px" href="https://instagram.com/me.create" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="35" width="35" /></a>
-<a style="margin:5px" href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16021/16021276.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Linkedin" height="35" width="35" /></a>
-<a style="margin:5px" href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16033/16033438.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Youtube" height="35" width="35" /></a>
-<a style="margin:5px" href="mailto:muhammedjepbarov@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5968/5968534.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Gmail" height="35" width="35" /></a>
-<a style="margin:5px" href="skype:muhammedjepbarov" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16021/16021324.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Skype" height="35" width="35" /></a>
-<a style="margin:5px" href="https://t.me/mecreate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="35" width="35" /></a>
-<a style="margin:5px" href="https://wa.me/+99361509038" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/733/733585.png?semt=ais_hybrid" alt="Whatsapp" height="35" width="35" /></a>
+<a style="margin:8px" href="https://wa.me/+99361509038" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/733/733585.png?semt=ais_hybrid" alt="Whatsapp" height="35" width="35" /></a>
+<a style="margin:8px" href="https://instagram.com/me.create" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="35" width="35" /></a>
+<a style="margin:8px" href="https://t.me/mecreate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="35" width="35" /></a>
+<a style="margin:8px" href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16021/16021276.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Linkedin" height="35" width="35" /></a>
+<a style="margin:8px" href="https://join.skype.com/invite/ntgI8ZCOEpC7" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16021/16021324.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Skype" height="35" width="35" /></a>
+<a style="margin:8px" href="mailto:muhammedjepbarov@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5968/5968534.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Gmail" height="35" width="35" /></a>
+<a style="margin:8px" href="https://www.youtube.com/@inneovation" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16033/16033438.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Youtube" height="35" width="35" /></a>
 
 </p>
 
