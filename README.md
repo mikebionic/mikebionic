@@ -53,8 +53,8 @@
 <br>
 <p><b>My YouTube Views:</b></p>
 <div style="display:flex">
-<a style="margin-right:1em" href="https://www.youtube.com/channel/UCBTSaWdftFazyyFMcCRya0Q" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/views/UCBTSaWdftFazyyFMcCRya0Q?label=Erkin Ugur" alt="Erkin Ugur YouTube Channel Views">
+<a style="margin-right:15px" href="https://www.youtube.com/channel/UCBTSaWdftFazyyFMcCRya0Q" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/views/UCBTSaWdftFazyyFMcCRya0Q?label=ErkinUgur" alt="Erkin Ugur YouTube Channel Views">
 </a></br>
 <a href="https://www.youtube.com/channel/UCdAYniU-kLb538Q60Fg2KCQ" target="_blank">
   <img src="https://img.shields.io/youtube/channel/views/UCdAYniU-kLb538Q60Fg2KCQ?label=Inneovation" alt="Inneovation YouTube Channel Views">
