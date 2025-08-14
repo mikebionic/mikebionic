@@ -71,7 +71,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikebionic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebionic&layout=compact&theme=radical&hide_border=true&hide=javascript,css,html,php&langs_count=4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikebionic&layout=compact&theme=radical&hide_border=true&hide=javascript,css,html,php,scss&langs_count=4"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikebionic&theme=radical&hide_border=true"/>
