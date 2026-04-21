@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Mike!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&size=30&duration=2000&pause=1000&random=true&vCenter=true&width=900&lines=DevOps+Engineer,Electronics+and+IoT+Engineer;Good+coder;Future+GDG+Expert;Fullstack+developer;Creative+problem+solver;Reliable+project+manager;Loved+mentor;Perfect+teamlead;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&size=30&duration=2000&pause=1000&random=true&vCenter=true&width=900&lines=Tech+Lead+%7C+DevOps+Engineer;Led+10%2B+engineers;Mentor+%26+Community+Builder;Fullstack+developer;7%2B+years+experience;)](https://git.io/typing-svg)
 
 ## 🛸 My Stack & Expertise:
 
@@ -23,6 +23,11 @@
 </p>
 
 
+## 👥 Leadership & Impact
+
+Led 10+ engineers | Mentored 20+ developers | 7+ enterprise systems | GDG organizer (7+ years)
+
+
 ## 🔥 What I'm Working On
 
 🚧 **Current Project**: Building a large-scale logistics platform with automated metrics, real-time GPS tracking, and analytics.
@@ -41,15 +46,14 @@
 <summary>
 <b>🎖️ Achievements & Recognition</b>
 </summary>
-- 🛠️ <b>Project Manager</b> Delivered 13+ enterprise-grade projects <br>
+- 🛠️ <b>Engineering Lead</b> - Delivered 7+ enterprise projects, led team of 10+ engineers <br>
+- 🧠 <b>Mentor</b> - Guided 20+ developers from junior to senior roles <br>
+- 🎤 <b>Community Leader</b> - GDG Ashgabat organizer (7+ years), trained 168 participants at NASA Space Apps <br>
 - 🎓 <b>Docker Training Course</b> (2024) <br>
-- 🎯 <b>Certified Linux System Administrator</b> at Erkin Ugur (2024) <br>
+- 🎯 <b>Certified Linux System Administrator</b> (2024) <br>
 - 📚 <b>Design Patterns in Go</b> at Udemy (2024) <br>
 - 🦾 <b>Referee</b> on Sumo Robot challenge (2025) <br>
-- 🎤 <b>Speaker</b> at Google Developers Group Ashgabat (2021-present) <br>
-- 📝 <b>Tech Blogger</b> - Sharing Medium articles and YouTube Podcasts <br>
-- 🧠 <b>Mentor</b> - Guided 10+ junior developers to senior roles <br>
-- 🛰️ <b>NASA Space Apps Challenge</b> Hackathon mentor & co-organizer <br>
+- 📝 <b>Tech Blogger</b> - 45+ videos, 20+ articles <br>
 <br>
 <p><b>My YouTube Views:</b></p>
 <div style="display:flex">
