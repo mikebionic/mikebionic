@@ -91,7 +91,7 @@ I'm always interested in discussing DevOps, IoT innovations, Backend development
     <a style="margin:14px" href="https://t.me/mikebionic" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="35" width="35" /></a>
     <a style="margin:14px" href="https://www.linkedin.com/in/muhammed-jepbarov/" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16021/16021276.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Linkedin" height="35" width="35" /></a>
     <a style="margin:14px" href="https://medium.com/@mecreate" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" height="35" width="35" /></a>
-    <a style="margin:14px" href="mailto:[REMOVED]" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5968/5968534.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Gmail" height="35" width="35" /></a>
+    <a style="margin:14px" href="mailto:jepbarovme@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/5968/5968534.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Gmail" height="35" width="35" /></a>
     <a style="margin:14px" href="https://www.youtube.com/@inneovation" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/16033/16033438.png?ga=GA1.1.924385862.1728385570&semt=ais_hybrid" alt="Youtube" height="35" width="35" /></a>
 </p>
 
