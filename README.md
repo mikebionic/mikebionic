@@ -6,19 +6,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=golang,python,nodejs,react,arduino&theme=dark" />
-    </a>
-</p>
-<p align="center">
-    <a href="#">
-        <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,bash,postgres&theme=dark" />
-    </a>
-</p>
-<!-- rabbitmq,kafka -->
-<!-- prometheus,grafana,terraform,ansible,azure -->
-<p align="center">
-    <a href="#">
-        <img src="https://skillicons.dev/icons?i=figma,postman,linux,bsd,notion&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=golang,python,nodejs,react,arduino,git,docker,kubernetes,bash,postgres,figma,postman,linux,bsd,notion&theme=dark" />
     </a>
 </p>
 
